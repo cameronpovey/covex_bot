@@ -4,6 +4,8 @@
 # Covex Bot
 A discord bot created in discord.py rewrite
 
+All credits for the file Music.py goes to EvieePy https://gist.github.com/EvieePy/ab667b74e9758433b3eb806c53a19f34
+
 ## Requirements
 Required modules to run this bot, more information in the requirements.txt
   - youtube_dl
