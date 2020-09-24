@@ -19,3 +19,6 @@ Required modules to run this bot, more information in the requirements.txt
 <a href="https://top.gg/bot/569930766339801088" >
   <img src="https://top.gg/api/widget/569930766339801088.svg" alt="Covex Bot" />
 </a>
+
+
+[![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)] [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
